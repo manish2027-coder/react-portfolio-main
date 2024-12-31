@@ -1,0 +1,18 @@
+[
+  {
+    "title": "E-Commerce website",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "A sleek, responsive e-commerce website built with React, featuring dynamic product listings, seamless cart management, and a modern UI.",
+    "skills": ["React js"],
+    "demo": "https://manish-ecommerce-2027.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Van Booking Website",
+    "imageSrc": "projects/van-booking.png",
+    "description": "A React-based platform that lists available vans with detailed pages for each, allowing users to explore van options, view specifications, and make bookings easily.",
+    "skills": ["React js"],
+    "demo": "https://van-booking.netlify.app/",
+    "source": "https://www.github.com"
+  }
+]
